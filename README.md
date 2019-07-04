@@ -8,3 +8,5 @@ Turn on less secure App access on your google account to send and receive emails
 https://myaccount.google.com/lesssecureapps
 
 
+Learned this from Dev Ed Youtube Channel. Link to his Channel below:
+https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
